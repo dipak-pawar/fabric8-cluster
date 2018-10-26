@@ -1,0 +1,212 @@
+
+**Commit:** https://github.com/fabric8-services/fabric8-cluster-client/commit/53ed0056e4007e34202d0756c7867f84b61dc4b3
+**Author:** Alexey Kazakov (alkazako@redhat.com)
+**Date:** 2018-09-21T06:40:36+05:30
+
+Clean up readme (fabric8-services/fabric8-cluster-client#3)
+
+
+
+----
+
+
+**Commit:** https://github.com/fabric8-services/fabric8-cluster-client/commit/edd01596bbe1dabf0f66b6dc431b4b88b35692b8
+**Author:** Alexey Kazakov (alkazako@redhat.com)
+**Date:** 2018-09-21T06:51:01+05:30
+
+Allow Auth SA to access full cluster configuration (fabric8-services/fabric8-cluster-client#2)
+
+
+
+----
+
+
+**Commit:** https://github.com/fabric8-services/fabric8-cluster-client/commit/eb0a7d667537b7ae5a3ac47e8130c19f83d3889d
+**Author:** Dipak Pawar (dipakpawar231@gmail.com)
+**Date:** 2018-10-04T03:42:12+05:30
+
+cleanup: fixes some errors in golangci (fabric8-services/fabric8-cluster-client#4)
+
+
+
+----
+
+
+**Commit:** https://github.com/fabric8-services/fabric8-cluster-client/commit/d338a29ee57370dc47f7573f2923b5557dab26ef
+**Author:** Dipak Pawar (dipakpawar231@gmail.com)
+**Date:** 2018-10-04T04:23:01+05:30
+
+chore: fix container name for db and add details for code format (fabric8-services/fabric8-cluster-client#5)
+
+
+
+----
+
+
+**Commit:** https://github.com/fabric8-services/fabric8-cluster-client/commit/5a4f5e49d3c3198289d253cec4584a31540fcba8
+**Author:** Alexey Kazakov (alkazako@redhat.com)
+**Date:** 2018-10-10T10:35:51-07:00
+
+Use sentry from fabric8-common (fabric8-services/fabric8-cluster-client#10)
+
+* Use sentry from fabric8-common
+
+* Update common
+
+
+----
+
+
+**Commit:** https://github.com/fabric8-services/fabric8-cluster-client/commit/92ddc440df1c67913fd835d2bf31dc6030956057
+**Author:** Alexey Kazakov (alkazako@redhat.com)
+**Date:** 2018-10-23T15:03:02-07:00
+
+Update latest build icon/link in readme (fabric8-services/fabric8-cluster-client#17)
+
+
+
+----
+
+
+**Commit:** https://github.com/fabric8-services/fabric8-cluster-client/commit/dfe9c5e6f7b1d5ab422152c65cc8931e83d26592
+**Author:** Dipak Pawar (dpawar@redhat.com)
+**Date:** 2018-10-22T20:54:31+05:30
+
+chore: add make target to generate client
+
+
+
+----
+
+
+**Commit:** https://github.com/fabric8-services/fabric8-cluster-client/commit/3479afb0ec742e7cc4a521126dabf85ae4b8d8cd
+**Author:** Dipak Pawar (dpawar@redhat.com)
+**Date:** 2018-10-22T20:55:18+05:30
+
+chore: add functions to create client and pr to client repo
+
+
+
+----
+
+
+**Commit:** https://github.com/fabric8-services/fabric8-cluster-client/commit/fb7147c07bd47b6aa1963b8560ba87e44d25a742
+**Author:** Dipak Pawar (dpawar@redhat.com)
+**Date:** 2018-10-23T18:52:15+05:30
+
+chore: source bash functions from url to avoid duplications in future
+
+
+
+----
+
+
+**Commit:** https://github.com/fabric8-services/fabric8-cluster-client/commit/760177b9d6fbd68dad4f40ef1a53a03c2050a943
+**Author:** Dipak Pawar (dpawar@redhat.com)
+**Date:** 2018-10-23T19:02:32+05:30
+
+remove me: used for testing
+
+
+
+----
+
+
+**Commit:** https://github.com/fabric8-services/fabric8-cluster-client/commit/3d44a35457352dd9d0546123c97330b03e9da681
+**Author:** Dipak Pawar (dpawar@redhat.com)
+**Date:** 2018-10-23T19:26:47+05:30
+
+chore: new revision
+
+
+
+----
+
+
+**Commit:** https://github.com/fabric8-services/fabric8-cluster-client/commit/5c1a53f3dd96ef67f778a446db3cf3fa79a52b24
+**Author:** Dipak Pawar (dpawar@redhat.com)
+**Date:** 2018-10-25T10:46:49+05:30
+
+chore: remove functions used for testing
+
+
+
+----
+
+
+**Commit:** https://github.com/fabric8-services/fabric8-cluster-client/commit/feb33afb38fb831c5ffb84b25eef3782fafa2c63
+**Author:** Dipak Pawar (dpawar@redhat.com)
+**Date:** 2018-10-25T10:48:11+05:30
+
+chore: remove client generated at cluster
+
+
+
+----
+
+
+**Commit:** https://github.com/fabric8-services/fabric8-cluster-client/commit/1d2ce03e22f60c14e9c2940e3683908aa799c453
+**Author:** Dipak Pawar (dpawar@redhat.com)
+**Date:** 2018-10-25T10:51:42+05:30
+
+chore: load FABRIC8_HUB_TOKEN from jenkins env
+
+
+
+----
+
+
+**Commit:** https://github.com/fabric8-services/fabric8-cluster-client/commit/2f642c8876ddd063ed277f22d964713875634fca
+**Author:** Dipak Pawar (dpawar@redhat.com)
+**Date:** 2018-10-25T10:54:56+05:30
+
+Merge branch 'master' of https://github.com/fabric8-services/fabric8-cluster into issue_12
+
+
+
+----
+
+
+**Commit:** https://github.com/fabric8-services/fabric8-cluster-client/commit/c7f8727a6dfe41ec5330f7e30f06b95d52606875
+**Author:** nurali-techie (nurali.techie@gmail.com)
+**Date:** 2018-10-25T11:54:57+05:30
+
+fix: cico deploy execute some target two times (fabric8-services/fabric8-cluster-client#18)
+
+
+
+----
+
+
+**Commit:** https://github.com/fabric8-services/fabric8-cluster-client/commit/ee3c02f54292ee5f548bb589b187fdd385648da2
+**Author:** Dipak Pawar (dpawar@redhat.com)
+**Date:** 2018-10-25T18:18:47+05:30
+
+chore: use source url from fabric8-common
+
+
+
+----
+
+
+**Commit:** https://github.com/fabric8-services/fabric8-cluster-client/commit/331985998199bd2bc78b99b9a23f69c435a4a9cf
+**Author:** Dipak Pawar (dpawar@redhat.com)
+**Date:** 2018-10-25T18:20:51+05:30
+
+Merge branch 'master' of https://github.com/fabric8-services/fabric8-cluster into issue_12
+
+
+
+----
+
+
+**Commit:** https://github.com/fabric8-services/fabric8-cluster-client/commit/6c909ef9220f67cb9ac786281e9c7795f7f9165d
+**Author:** Dipak Pawar (dpawar@redhat.com)
+**Date:** 2018-10-25T23:57:27+05:30
+
+chore: use full url in source
+
+
+
+----
+
